@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "719501512621",
+    "project_id": "deliverymap-68a7c",
+    "storage_bucket": "deliverymap-68a7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719501512621:android:85e5542840cc5109da1b24",
+        "android_client_info": {
+          "package_name": "com.mainstream.feb16gmaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719501512621-lobqr50lepai2vu9tlpjrdf6pfrl2hqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mainstream.feb16gmaps",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "719501512621-vag1v5mc96bb1mueq9op1gg4b97crrja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgoDmUJj6Lo8OLftHP0dmsGhlJmlzknUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719501512621-vag1v5mc96bb1mueq9op1gg4b97crrja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "719501512621-g4vs0q2s2mgq8eo3t48sj60hvn5hjk1c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mainstream.feb16gmaps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
